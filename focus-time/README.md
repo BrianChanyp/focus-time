@@ -1,4 +1,4 @@
-A simple expo focus app.
+A simple expo  React native focus app.
 
 A task is prompted.
 
